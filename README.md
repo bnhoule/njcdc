@@ -2,7 +2,7 @@
 By the year 2100, climate change could force 100s of thousands of NJ citizens to evacuate the coa\
 stline.
 
-20 students at Princeton are working with state legislators to put a price on carbon in New Jerse\
+20 students at NJSCA are working with state legislators to put a price on carbon in New Jerse\
 y.
 The policy places a fee on fossil fuels. The majority of revenue is returned to households as div\
 idends to handle the increased energy costs. Economists and politicans of both parties support th\
