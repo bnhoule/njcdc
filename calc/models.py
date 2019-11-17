@@ -80,6 +80,11 @@ def get_gasoline_co2_conversion(gasoline_type, gasoline_unit):
         if gasoline_unit == 'gallon' or gasoline_unit == ('gallon', 'gallons')\
          or gasoline_unit == "('gallon', 'gallons')":
             return e0_ton_co2_per_gallon
+    elif gasoline_type == 'internal_name' or gasoline_type == ('internal_name', 'external_name')\
+        or gasoline_type == "('internal_name', 'external_name')":
+        if gasoline_unit == 'gallon' or gasoline_unit == ('gallon', 'gallons')\
+         or gasoline_unit == "('gallon', 'gallons')":
+            return test_ton_co2_per_gallon
     elif gasoline_type == 'diesel' or gasoline_type == ('diesel', 'Diesel')\
         or gasoline_type == "('diesel', 'Diesel')":
         if gasoline_unit == 'gallon' or gasoline_unit == ('gallon', 'gallons')\
