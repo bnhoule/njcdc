@@ -27,7 +27,7 @@ PERIOD_CHOICES = (('month', 'Per Month'), )
 
 ###### GASOLINE CHOICES
 
-GASOLINE_CHOICES = (('e10', 'Regular Gasoline'), ('e0', 'Pure Gasoline'), ('diesel', 'Diesel'), ('b20', '20% Biodiesel'))
+GASOLINE_CHOICES = (('e10', 'Regular Gasoline'), ('e0', 'Pure Gasoline'), ('diesel', 'Diesel'), ('b20', '20% Biodiesel'), ('internal_name', 'external_name'))
 
 GASOLINE_UNIT_CHOICES = (('gallon', 'gallons'), )
 
@@ -41,6 +41,8 @@ e0_ton_co2_per_gallon = 19.6/2204.6
 diesel_ton_co2_per_gallon = 22.4/2204.6
 
 b20_ton_co2_per_gallon = 17.9/2204.6
+
+test_ton_co2_per_gallon = 50/2000
 
 
 
