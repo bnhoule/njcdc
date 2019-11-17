@@ -1,3 +1,8 @@
+## Brendan Houle Updates
+Redid the underlying calculations/input fields and updated the layout of the
+website to keep it in line with our updated policy and goals for keeping New Jersey
+households informed.
+
 ## NJ Carbon Dividend Calculator
 By the year 2100, climate change could force 100s of thousands of NJ citizens to evacuate the coa\
 stline.
